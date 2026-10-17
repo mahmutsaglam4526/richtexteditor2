@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<index>
+	<title>Source of richtexteditor2</title>
+	<nodes>
+		<node label="libs">
+		</node>
+		<node label="src" icon="classpathIcon" expanded="true">
+			<node label="richtexteditor2-app.xml" url="source/richtexteditor2-app.xml.txt"/>
+			<node selected="true" label="richtexteditor2.mxml" icon="mxmlAppIcon" url="source/richtexteditor2.mxml.html"/>
+		</node>
+		<node label="richtexteditor2.launch" url="source/richtexteditor2.launch"/>
+	</nodes>
+</index>

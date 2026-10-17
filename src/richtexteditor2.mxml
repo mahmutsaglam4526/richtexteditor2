@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:WindowedApplication xmlns:mx="http://www.adobe.com/2006/mxml" layout="absolute" viewSourceURL="srcview/index.html">
+	<mx:RichTextEditor x="0" title="richtexteditor2" width="1374" height="654" y="0">
+	</mx:RichTextEditor>
+	
+</mx:WindowedApplication>
